@@ -57,7 +57,7 @@ if(isset($_POST['discord'])) {
 session_start();
  
 //ログイン済みかを確認
-if (!isset($_SESSION['USER'])) {
+if (!isset($_SESSION['USER-f'])) {
     header('Location: /友達サーバー用サイト/ログイン');
     exit;
 }
