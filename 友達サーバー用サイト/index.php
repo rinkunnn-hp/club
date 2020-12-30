@@ -14,7 +14,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<a href="index.php" class="logo"><strong>RN</strong> <span>りんの物置場</span></a>
+						<a href="/index.php" class="logo"><strong>RN</strong> <span>りんの物置場</span></a>
 						<nav>
 							<a href="#menu">メニュー</a>
 						</nav>
