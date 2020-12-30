@@ -48,7 +48,7 @@
     if(isset($_POST['login'])){
         if ($_POST['email'] == 'server' && $_POST['password'] == 'lol'){ // ③
 
-            $_SESSION["USER"] = '友達サーバー';
+            $_SESSION["USER-f"] = '友達サーバー';
             header("Location: /友達サーバー用サイト");
             exit;
         }
