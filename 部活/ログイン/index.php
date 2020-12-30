@@ -49,7 +49,7 @@
     if(isset($_POST['login'])){
         if ($_POST['email'] == 'kagakubu@gmail.com' && $_POST['password'] == 'okafu'){ // ③
 
-            $_SESSION["USER"] = '科学部';
+            $_SESSION["USER-club"] = '科学部';
             header("Location: /部活/index.php");
             exit;
         }
