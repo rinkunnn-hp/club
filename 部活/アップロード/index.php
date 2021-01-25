@@ -44,6 +44,7 @@
 			<script src="/assets/js/util.js"></script>
 			<script src="/assets/js/main.js"></script>
 <div class="main">
+	<img src=https://magazine.jp.square-enix.com/top/images/anime/detail/zibakus/thumb.jpg>
   <form action="index.php" method="post" enctype="multipart/form-data">
     ファイル：<br />
     <input type="file" name="upfile" size="30" /><br />
