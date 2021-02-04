@@ -65,6 +65,15 @@
 										<p>友達サーバー用サイト</p>
 									</header>
 								</article>
+																<article>
+									<span class="image">
+										<img src="/mages/pic02.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="きゅうり" class="link">きゅうり</a></h3>
+										<p>きゅうり</p>
+									</header>
+								</article>
 						</section>
 
 					</div>
