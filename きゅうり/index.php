@@ -5,7 +5,7 @@ session_start();
  
 //ログイン済みかを確認
 if (!isset($_SESSION['USER-f'])) {
-    header('Location: /きゅうり');
+    header('Location: /きゅうり/ログイン');
     exit;
 }
-	?>
+?>
