@@ -44,7 +44,7 @@
 
 <form method="POST" action="<?php print($_SERVER['PHP_SELF']) ?>">
 <p>ファイルの名前</p>
-<input type="text" name="personal_name" value="あやぽん"><br><br>
+<input type="text" name="personal_name"><br><br>
 <p>内容</p>
 <textarea name="contents" rows="8" cols="40">
 </textarea><br><br>
