@@ -63,6 +63,7 @@ a.btn-border:hover:before {
            echo"<input type=submit id=a2-2 name=a2-2 value=チョモランマ>";
            echo"<input type=submit id=a2-3 name=a2-3 value=KG>";
            }
+ ?>
   
       
 
