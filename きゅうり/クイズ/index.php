@@ -31,7 +31,7 @@
            echo"問題2 世界で2番目に高い山は何というのか？";
            echo"<input type=submit id=a2-1 name=a2-1 value=エベレスト>";
            echo"<input type=submit id=a2-2 name=a2-2 value=チョモランマ>";
-           echo"<input type=submit id=a2-3 name=a2-3 value=KG>";
+           echo"<input type=submit id=a2-3 name=a2-3 value=KG>";　
            }
  ?>
   
