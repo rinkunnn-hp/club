@@ -1,5 +1,5 @@
 <form action="index.php" method="post" enctype="multipart/form-data">
-<input type="submit" id=start name=start　class=btn-border value=START>
+<input type="submit" id=start name=start value=START>
  
 
   <?php
