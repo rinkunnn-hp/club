@@ -3,7 +3,7 @@
    <style>
    /*主な共通部分は省略*/
 
-a.btn-border {
+.btn-border {
   padding: 1.5rem 4rem;
   border: 3px solid #000;
   border-radius: 0;
@@ -11,7 +11,7 @@ a.btn-border {
   background: #fff;
 }
 
-a.btn-border:before {
+.btn-border:before {
   position: absolute;
   top: 2px;
   left: 2px;
@@ -24,7 +24,7 @@ a.btn-border:before {
   border-radius: 100vh;
 }
 
-a.btn-border:hover:before {
+.btn-border:hover:before {
   top: 0;
   left: 0;
   width: 100%;
